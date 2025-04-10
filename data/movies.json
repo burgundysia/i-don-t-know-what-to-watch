@@ -1,0 +1,18 @@
+[
+    {
+      "name": "stalker",
+      "year": 1979,
+      "quote": "May they believe in themselves and become as helpless as children. For softness is great and strength is worthless.",
+      "poster": "stalker1.jpg",
+      "background": "stalker2.jpg",
+      "soundtrack": "stalker4.mp3"
+    },
+    {
+      "name": "In The Mood For Love",
+      "year": 2000,
+      "quote": "It is a restless momemnt. She has kept her head lowered, to give him a chance to get closer. But he could not for lack of courage. She turns and walk away ",
+      "poster": "itmfl.jpg",
+      "background": "intmfl2.jpg",
+      "soundtrack": "intmfluu.mp3"
+    }
+  ]
