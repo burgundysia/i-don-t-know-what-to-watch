@@ -14,5 +14,13 @@
       "poster": "itmfl.jpg",
       "background": "intmfl2.jpg",
       "soundtrack": "intmfluu.mp3"
+    },
+    {
+      "name": "Goodbye Lenin!",
+      "year": 2003,
+      "quote": "The future lay in our hands. Uncertain, yet promising",
+      "poster": "gdbylin.jpg",
+      "background": "gdbylin1.jpg",
+      "soundtrack": "gdbylin2.mp3" 
     }
   ]
