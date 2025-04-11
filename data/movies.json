@@ -22,5 +22,37 @@
       "poster": "gdbylin.jpg",
       "background": "gdbylin1.jpg",
       "soundtrack": "gdbylin2.mp3" 
+    },
+    {
+      "name": "The Legend Of 1900",
+      "year": 1998,
+      "quote": "Winter comes, you wish it was summer. Summer comes, you live in dread of winter. That's why we never tire of travel",
+      "poster": "1900.jpg",
+      "background": "19001.jpg",
+      "soundtrack": "19002.mp3" 
+    },
+    {
+      "name": "The Age of innocence",
+      "year": 1993,
+      "quote": "The real lonliness is living among all these kind of people who only ask one to pretend",
+      "poster": "taoi.jpg",
+      "background": "taoi1.jpg",
+      "soundtrack": "taoi2.mp3" 
+    },
+    {
+      "name": "The Wind Will Carry Us",
+      "year": 1999,
+      "quote": "When you close your eyes on this world, this beauty, this wonders of nature and the generosity of God, it means you will never be coming back.",
+      "poster": "tww.jpg",
+      "background": "tww1.jpg",
+      "soundtrack": "thww2.mp3" 
+    },
+    {
+      "name": "The Best Of Youth",
+      "year": 2003,
+      "quote": "Life changes fast, life changes in an instant. You sit down to dinner and life as you know it ends.",
+      "poster": "tboy.jpg",
+      "background": "tboy1.jpg",
+      "soundtrack": "tboy2.mp3" 
     }
   ]
